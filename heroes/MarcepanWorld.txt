@@ -1,0 +1,3 @@
+Imie: Marcin Szepit
+Świat: Leśna
+Cecha: teleportacja na leśną
